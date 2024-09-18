@@ -1,6 +1,6 @@
-INFORMATION VISUALIZATION
-Introduction to data visualization taught at Centrale-Supelec
+##INFORMATION VISUALIZATION
+####Introduction to data visualization taught at Centrale-Supelec
 
-Tutor:
+####Tutor:
 Petra Isenberg
 petra.isenberg@inria.fr
